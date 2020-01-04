@@ -1,0 +1,7 @@
+C:\Users\DC1785\source\repos\LR_5\LR_5\bin\Debug\LR_5.exe.config
+C:\Users\DC1785\source\repos\LR_5\LR_5\bin\Debug\LR_5.exe
+C:\Users\DC1785\source\repos\LR_5\LR_5\bin\Debug\LR_5.pdb
+C:\Users\DC1785\source\repos\LR_5\LR_5\obj\Debug\LR_5.csprojAssemblyReference.cache
+C:\Users\DC1785\source\repos\LR_5\LR_5\obj\Debug\LR_5.csproj.CoreCompileInputs.cache
+C:\Users\DC1785\source\repos\LR_5\LR_5\obj\Debug\LR_5.exe
+C:\Users\DC1785\source\repos\LR_5\LR_5\obj\Debug\LR_5.pdb
